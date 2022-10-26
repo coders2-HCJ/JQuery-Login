@@ -1,6 +1,6 @@
 var account = {
-    username: "khan_academy",
-    password: "ka2008"
+    username: "git_hub",
+    password: "htmlcssjs123"
 };
 $(document).ready(function() {
     $("form").on("submit", function(event) {
